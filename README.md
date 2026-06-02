@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Co-Founder of **Promade**, where I build scalable and modern digital products.  
+🚀 Founder of **EtherStudio**, where I build scalable and modern digital products.  
 💡 Passionate about creating seamless user experiences through clean design and solid architecture.  
 🤝 Open to collaborations on **SaaS**, **sports tech**, and **front-end projects** using React.js and modern frameworks.  
 🌱 Currently exploring **system integrations**, **API automation**, and **scalable front-end architectures**.  
