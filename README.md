@@ -4,7 +4,6 @@
 🤝 Open to collaborations on **SaaS**, **sports tech**, and **front-end projects** using React.js and modern frameworks.  
 🌱 Currently exploring **system integrations**, **API automation**, and **scalable front-end architectures**.  
 🎯 Focused on combining **technical depth** with **design thinking** to turn ideas into impactful products.  
-⚡ Fun fact: I love building tools and platforms that make tech learning more interactive and fun.
 
 ---
 
